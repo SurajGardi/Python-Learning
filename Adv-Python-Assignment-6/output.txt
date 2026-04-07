@@ -1,0 +1,7 @@
+are : 1
+hello : 2
+hii : 1
+hiii : 1
+how : 1
+world : 1
+you : 1
